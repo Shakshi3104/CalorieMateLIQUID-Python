@@ -7,6 +7,8 @@ Python版
 
 [JavaScript版](https://github.com/BonyChops/CalorieMateLIQUID)
 
+[CalorieMate to Programmer](https://www.otsuka.co.jp/cmt/to_programmer/)
+
 ## Requirements
 - Tweepy
 
