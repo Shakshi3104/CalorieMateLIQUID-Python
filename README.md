@@ -26,6 +26,7 @@ pip install tweepy
 ```
 
 - Twitter Developer Account (取得は[developer.twitter.com](https://developer.twitter.com/) から)
+    - 申請方法などは[ここ](https://www.itti.jp/web-direction/how-to-apply-for-twitter-api/)を参照
 
 ## Usage
 1. `config.json`を編集する。
